@@ -5,7 +5,9 @@ I am currently working on, updating, and/or maintaining the following projects:
 
 
 
-## Work
+## Projects
+
+### Work
 - 📦 **Product Management Web Application**
   - Tech Stack: PHP, CSS, TypeScript, MySQL
   
