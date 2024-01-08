@@ -1,5 +1,5 @@
 ## Hello! 👋
-My name is Roy, I am a Software Development student at Windesheim University of Applied Sciences.
+My name is Roy, I am a Software Engineering student at Windesheim University of Applied Sciences.
 
 I am currently working on, updating, and/or maintaining the following projects:
 
