@@ -15,8 +15,8 @@ I am currently working on, updating, and/or maintaining the following projects:
   - Tech Stack: React Native, Express.js, MySQL
 
 ### Internship
-- 🔨 **Legacy Code Refactoring and DDD Implementation**
-  - Tech Stack: PHP, TypeScript
+- 🔨 **Building a new Webapplication to manage businessprocesses and documents**
+  - Tech Stack: Vue, TypeScript, MongoDB
   
 ### Personal (Fun & Experimental)
 - 📊 **In-Game Character Statistics Web Application**
