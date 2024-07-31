@@ -14,7 +14,6 @@ I am currently working on, updating, and/or maintaining the following projects:
 - 📱 **Certificates App (iOS & Android)**
   - Tech Stack: React Native, Express.js, MySQL
 
-### Internship
 - 🔨 **Building a new Webapplication to manage businessprocesses and documents**
   - Tech Stack: Vue, TypeScript, MongoDB
   
@@ -24,3 +23,7 @@ I am currently working on, updating, and/or maintaining the following projects:
   
 - 🎮 **Avoidance Platform Game**
   - Tech Stack: Unity
+
+---
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rduinkerken?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
