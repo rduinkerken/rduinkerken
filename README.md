@@ -1,27 +1,8 @@
 ## Hello! 👋
 My name is Roy, I am a Software Engineering student at Windesheim University of Applied Sciences.
+Find more about my experiences on my LinkedIn
 
-I am currently working on, updating, and/or maintaining the following projects: 
-## Projects
-
-### Work
-- 📦 **Product Management Web Application**
-  - Tech Stack: PHP, CSS, TypeScript, MySQL
-  
-- 📱 **Certificates App (iOS & Android)**
-  - Tech Stack: React Native, Express.js, MySQL
-
-- 🔨 **Building a new Webapplication to manage businessprocesses and documents**
-  - Tech Stack: Vue, TypeScript, MongoDB
-  
-### Personal (Fun & Experimental)
-- 📊 **In-Game Character Statistics Web Application**
-  - Tech Stack: TypeScript, HTML, CSS
-  
-- 🎮 **Avoidance Platform Game**
-  - Tech Stack: Unity
-
----
+  <a href="https://www.linkedin.com/in/roy-duinkerken-470497208/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
 
 ## Familiarities
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -48,8 +29,25 @@ I am currently working on, updating, and/or maintaining the following projects:
 
  ---
 
- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rduinkerken?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+## Projects
 
- ---
- 
-  <a href="https://www.linkedin.com/in/roy-duinkerken-470497208/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
+### Work
+- 📦 **Product Management Web Application**
+  - Tech Stack: PHP, CSS, TypeScript, MySQL
+  
+- 📱 **Certificates App (iOS & Android)**
+  - Tech Stack: React Native, Express.js, MySQL
+
+- 🔨 **Building a new Webapplication to manage businessprocesses and documents**
+  - Tech Stack: Vue, TypeScript, MongoDB
+  
+### Personal (Fun & Experimental)
+- 📊 **In-Game Character Statistics Web Application**
+  - Tech Stack: TypeScript, HTML, CSS
+  
+- 🎮 **Avoidance Platform Game**
+  - Tech Stack: Unity
+
+---
+
+ [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rduinkerken?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
