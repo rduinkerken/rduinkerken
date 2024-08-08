@@ -1,5 +1,6 @@
 ## Hello! 👋
 My name is Roy, I am a Software Engineering student at Windesheim University of Applied Sciences.
+
 Find more about my experiences on my LinkedIn
 
   <a href="https://www.linkedin.com/in/roy-duinkerken-470497208/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
