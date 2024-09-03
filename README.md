@@ -34,21 +34,28 @@ Find more about my experiences on my LinkedIn
 
 ### Work
 - 📦 **Product Management Web Application**
-  - Tech Stack: PHP, CSS, TypeScript, MySQL
+  - Tech Stack: PHP, JavaScript, MySQL, CSS
   
-- 📱 **Certificates App (iOS & Android)**
+- 📱 **Certificates App ([iOS](https://apps.apple.com/nl/app/pasjesapp-tweb/id6451257079) & [Android](https://play.google.com/store/search?q=pasjesapp%20tweb&c=apps&hl=nl))**
   - Tech Stack: React Native, Express.js, MySQL
 
 - 🔨 **Building a new Webapplication to manage businessprocesses and documents**
-  - Tech Stack: Vue, TypeScript, MongoDB
+  - Tech Stack: Vue, TypeScript, MongoDB, Express.js
   
 ### Personal (Fun & Experimental)
+- 🕰️**Pomodoroy** - [Pomodoro timer!](https://pomodoroy.royduinkerken.nl)
+  - Tech Stack: Vue (overkill but that's ok), TypeScript, CSS
+
+_not working on this currently_
 - 📊 **In-Game Character Statistics Web Application**
   - Tech Stack: TypeScript, HTML, CSS
-  
+
+  _not working on this currently_
 - 🎮 **Avoidance Platform Game**
   - Tech Stack: Unity
 
 ---
+
+_vim enthousiast btw 😉_
 
  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rduinkerken?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
