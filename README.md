@@ -60,7 +60,8 @@ _vim enthousiast btw 😉_
 
  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rduinkerken?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
+---
 
-I also like to stay updated and read articles about software engineering and other stuff.
+I also like to read articles to stay updated about software engineering and other stuff.
 
-<a href="https://app.daily.dev/rduinkerken"><img src="./devcard.png" width="356" alt="Roy's Dev Card"/></a>
+<a href="https://app.daily.dev/rduinkerken"><img src="https://raw.githubusercontent.com/rduinkerken/rduinkerken/refs/heads/main/devcard.png" width="356" alt="Roy's Dev Card"/></a>
