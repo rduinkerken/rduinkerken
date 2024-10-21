@@ -63,4 +63,4 @@ _vim enthousiast btw 😉_
 
 I also like to stay updated and read articles about software engineering and other stuff.
 
-<a href="https://app.daily.dev/rduinkerken"><img src="https://api.daily.dev/devcards/v2/T1QvMk9paGq2rAJRd4808.png?type=default&r=0da" width="356" alt="Roy's Dev Card"/></a>
+<a href="https://app.daily.dev/rduinkerken"><img src="./devcard.png" width="356" alt="Roy's Dev Card"/></a>
