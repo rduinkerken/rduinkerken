@@ -65,3 +65,6 @@ _vim enthousiast btw 😉_
 I also like to read articles to stay updated about software engineering and other stuff.
 
 <a href="https://app.daily.dev/rduinkerken"><img src="https://raw.githubusercontent.com/rduinkerken/rduinkerken/refs/heads/main/devcard.png" width="356" alt="Roy's Dev Card"/></a>
+
+
+<!-- Security scan triggered at 2025-09-02 00:16:46 -->
